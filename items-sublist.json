@@ -1,0 +1,57 @@
+{
+	"fileType": "items-sublist",
+	"siteVersion": "1.152.4",
+	"items": [
+		{
+			"h": "dagger_phb",
+			"c": 3
+		},
+		{
+			"h": "dungeoneer's%20pack_phb",
+			"c": 1
+		},
+		{
+			"h": "ink%20(1-ounce%20bottle)_phb",
+			"c": 1
+		},
+		{
+			"h": "ink%20pen_phb",
+			"c": 1
+		},
+		{
+			"h": "book_phb",
+			"c": 1
+		},
+		{
+			"h": "robes_phb",
+			"c": 1
+		},
+		{
+			"h": "amulet_phb",
+			"c": 1
+		},
+		{
+			"h": "wand_phb",
+			"c": 1
+		},
+		{
+			"h": "waterskin_phb",
+			"c": 2
+		},
+		{
+			"h": "paper%20(one%20sheet)_phb",
+			"c": 5
+		},
+		{
+			"h": "shield_phb",
+			"c": 1
+		},
+		{
+			"h": "soap_phb",
+			"c": 1
+		}
+	],
+	"sources": [
+		"PHB"
+	]
+}
